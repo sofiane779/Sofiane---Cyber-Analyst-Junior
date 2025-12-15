@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOCn Phishing-Analysis         | <a href="https://github.com/sofiane779/SOC-Phishing-Analysis">Detection Lab</a>|
+| SOC Phishing-Analysis         | <a href="https://github.com/sofiane779/SOC-Phishing-Analysis">Detection Lab</a>|
 | SIEM Project: Brute-Force / Port Scan Attack Detection | <a href="https://github.com/sofiane779/SIEM-Project-Brute-Force-Port-Scan-Attack-Detection">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
