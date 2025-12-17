@@ -14,9 +14,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                        | Tools & Technologies  |  Associated Project         |
 |-----------------------------------------------|----------------------------|---------------------------------------------|
-| SOC Phishing-Analysis         | VirusTotal, URLScan.io etc|       <a href="https://github.com/sofiane779/SOC-Phishing-Analysis">Detection Lab</a>                         |
- Brute-Force / Port Scan Attack Detection | Splunk |          <a href="https://github.com/sofiane779/SIEM-Project-Brute-Force-Port-Scan-Attack-Detection">Detection Lab</a>              |
-|   DNS Exfiltration & DGA Detection (Splunk)      | Splunk, Regex, BOTS v3|         <a href="https://github.com/sofiane779/SIEM-Project-Brute-Force-Port-Scan-Attack-Detection">Detection Engineering Lab</a>               |
+|  Phishing-Analysis         | VirusTotal, URLScan.io etc|       <a href="https://github.com/sofiane779/Phishing-Analysis">Detection Lab</a>                         |
+ Brute-Force / Port Scan Attack Detection | Splunk |          <a href="https://github.com/sofiane779/Brute-Force-Port-Scan-Attack-Detection">Detection Lab</a>              |
+|   DNS Exfiltration & DGA Detection (Splunk)      | Splunk, Regex, BOTS v3|         <a href="https://github.com/sofiane779/DNS-Exfiltration-DGA-Detection">Detection Engineering Lab</a>               |
 | Incident Response Planning and Execution      | |              SOC Automation Lab             |
 | Case Management with TheHive                  | |                SOC Automation Lab              |
 | Scripting and Automation for Threat Mitigation | |               SOC Automation Lab               |
