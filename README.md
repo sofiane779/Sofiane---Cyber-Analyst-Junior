@@ -59,10 +59,11 @@ Dedicated to protecting critical infrastructures, I am a **Google Cybersecurity 
 
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-Prompting%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Developer%20Professional-6236FF?style=for-the-badge&logo=buffer&logoColor=white)"/>
+<img src="https://img.shields.io/badge/-Google%20Prompting%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Full%20Stack%20Developer%20Professional-6236FF?style=for-the-badge&logo=buffer&logoColor=white"/>
 </div>
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- Detection Engineering Lab
+- Log Threat Intelligence Analyze
