@@ -17,9 +17,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |  Phishing-Analysis         | VirusTotal, URLScan.io etc|       <a href="https://github.com/sofiane779/Phishing-Analysis">Detection Lab</a>                         |
  Brute-Force / Port Scan Attack Detection | Splunk, BOTS v3  |          <a href="https://github.com/sofiane779/Brute-Force-Port-Scan-Attack-Detection">Detection Lab</a>              |
 |   DNS Exfiltration & DGA Detection (Splunk)      | Splunk, Regex, BOTS v3|         <a href="https://github.com/sofiane779/DNS-Exfiltration-DGA-Detection">Detection Engineering Lab</a>               |
-| Incident Response Planning and Execution      | |              SOC Automation Lab             |
-| Case Management with TheHive                  | |                SOC Automation Lab              |
-| Scripting and Automation for Threat Mitigation | |               SOC Automation Lab               |
+| Endpoint Monitoring & Threat Detection | Sysmon, PowerShell, Kali Linux | <a href="https://github.com/sofiane779/Windows-Endpoint-Monitoring">Detection Lab</a> |
+| Log Analysis & Threat Intel Automation | Python, VirusTotal API, Regex | <a href="https://github.com/sofiane779/Python-Log-Threat-Analyzer">Log Threat Intelligence Analyzer</a> |
 
 ## Tools
 
@@ -33,7 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 ### Cloud
@@ -46,6 +45,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+
+### Scripting & Automation
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Regex](https://img.shields.io/badge/regex-42a5f5?style=for-the-badge&logo=regex&logoColor=white)
+
+### Threat Intelligence
+![VirusTotal](https://img.shields.io/badge/VirusTotal-3949AB?style=for-the-badge&logo=virustotal&logoColor=white)
 
 ## Certifications
 
