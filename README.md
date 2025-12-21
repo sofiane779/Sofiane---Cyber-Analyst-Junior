@@ -5,9 +5,11 @@ Aspiring junior security analyst, driven by the desire to understand, analyze an
 
 
 
-## Objective
+## About me
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Passionate about computer science and building secure digital environments, my journey began with a **Professional Full Stack Developer certification**. This technical foundation sparked my interest in emerging technologies, leading me to earn the **Google Prompting Essentials certification** to leverage AI effectively.
+
+Dedicated to protecting critical infrastructures, I am a **Google Cybersecurity certified professional**, currently expanding my expertise by pursuing the **Microsoft SC-900 certification**. My goal is to bridge the gap between development and security, aiming to join a **Security Operations Center (SOC) as a Tier 1 Analyst** where I can apply my automation and threat detection skills.
 
 ## Skills
 
@@ -57,8 +59,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Google-Prompting%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer%20Professional-6236FF?style=for-the-badge&logo=buffer&logoColor=white)"/>
 </div>
 
 ## Projects
