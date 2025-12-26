@@ -21,6 +21,7 @@ Dedicated to protecting critical infrastructures, I am a **Google Cybersecurity 
 |   DNS Exfiltration & DGA Detection (Splunk)      | Splunk, Regex, BOTS v3|         <a href="https://github.com/sofiane779/DNS-Exfiltration-DGA-Detection">Detection Engineering Lab</a>               |
 | Endpoint Monitoring & Threat Detection | Sysmon, PowerShell, Kali Linux | <a href="https://github.com/sofiane779/Windows-Endpoint-Monitoring">Detection Lab</a> |
 | Log Analysis & Threat Intel Automation | Python, VirusTotal API, Regex | <a href="https://github.com/sofiane779/Python-Log-Threat-Analyzer">Log Threat Intelligence Analyzer</a> |
+| Threat-Intel-Dashboard | Python, Streamlit, VirusTotal API, Regex | <a href="https://github.com/sofiane779/Threat-Intel-Dashboard"></a> Log Threat Intelligence Analyzer|
 
 ## Tools
 
@@ -59,6 +60,7 @@ Dedicated to protecting critical infrastructures, I am a **Google Cybersecurity 
 
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Intro_to_Cybersecurity-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Intro Badge">
 <img src="https://img.shields.io/badge/-Google%20Prompting%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Full%20Stack%20Developer%20Professional-6236FF?style=for-the-badge&logo=buffer&logoColor=white"/>
 </div>
