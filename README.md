@@ -20,8 +20,8 @@ Dedicated to protecting critical infrastructures, I am a **Google Cybersecurity 
  Brute-Force / Port Scan Attack Detection | Splunk, BOTS v3  |          <a href="https://github.com/sofiane779/Brute-Force-Port-Scan-Attack-Detection">Detection Lab</a>              |
 |   DNS Exfiltration & DGA Detection (Splunk)      | Splunk, Regex, BOTS v3|         <a href="https://github.com/sofiane779/DNS-Exfiltration-DGA-Detection">Detection Engineering Lab</a>               |
 | Endpoint Monitoring & Threat Detection | Sysmon, PowerShell, Kali Linux | <a href="https://github.com/sofiane779/Windows-Endpoint-Monitoring">Detection Lab</a> |
-| Log Analysis & Threat Intel Automation | Python, VirusTotal API, Regex | <a href="https://github.com/sofiane779/Python-Log-Threat-Analyzer">Log Threat Intelligence Analyzer</a> |
-| Threat-Intel-Dashboard | Python, Streamlit, VirusTotal API, Regex | <a href="https://github.com/sofiane779/Threat-Intel-Dashboard"></a> Log Threat Intelligence Analyzer|
+| Log Analysis & Threat Intel Automation | Python, VirusTotal API, Regex | <a href="https://github.com/sofiane779/Python-Log-Threat-Intelligence-Analyzer">Log Threat Intelligence Analyzer</a> |
+| Threat-Intel-Dashboard | Python, Streamlit, VirusTotal API, Regex | <a href="https://github.com/sofiane779/Threat-Intel-Dashboard"> Log Threat Intelligence Analyzer</a>|
 
 ## Tools
 
